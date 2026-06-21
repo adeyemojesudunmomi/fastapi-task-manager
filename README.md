@@ -34,9 +34,19 @@ to access the interactive API documentation.
 
 API Endpoints
 
-- GET /
-- POST /tasks
-- GET /tasks
-- GET /tasks/{task_id}
-- PUT /tasks/{task_id}
-- DELETE /tasks/{task_id}
+Method| Endpoint
+GET| /
+POST| /tasks
+GET| /tasks
+GET| /tasks/{task_id}
+PUT| /tasks/{task_id}
+DELETE| /tasks/{task_id}
+
+Skills Demonstrated
+
+- Backend Development
+- REST APIs
+- Database Design
+- CRUD Operations
+- Python Programming
+- Software Engineering Fundamentals
